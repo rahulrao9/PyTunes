@@ -15,3 +15,4 @@ music player using python
 
 VIBE ALONG!
 
+![image](https://user-images.githubusercontent.com/109891091/192346322-33c94927-7b24-4058-96e5-f3f25f5ae056.png)
