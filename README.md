@@ -1,4 +1,4 @@
-# pytunes
+# PyTunes
 Music player using python
 
 >Pause Play Next Previous Stop buttons
